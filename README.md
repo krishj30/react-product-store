@@ -1,16 +1,80 @@
-# React + Vite
+# 🛒 Product Store App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern ecommerce-style product store built using React, Tailwind CSS, and FakeStore API.
+Users can browse products, search items, sort products, add items to cart, and manage cart items through a responsive sidebar UI.
 
-Currently, two official plugins are available:
+ 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 Add your Vercel link here
 
-## React Compiler
+ 📌 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* 🛍️ Product listing using API
+* 🔍 Search products
+* 📊 Sort products by price
+* 🛒 Add to cart functionality
+* ❌ Remove from cart
+* 📱 Responsive cart sidebar
+* 🔔 Toast notifications
+* 🎨 Modern dark UI using Tailwind CSS
+* ⚡ Fast performance using Vite
 
-## Expanding the ESLint configuration
+ 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* Tailwind CSS
+* JavaScript
+* Vite
+* React Toastify
+* FakeStore API
+* Vercel Deployment
+
+---
+
+ 📂 Installation
+
+Clone the repository:
+
+bash
+git clone https://github.com/yourusername/your-repo-name.git
+
+
+Go to project folder:
+
+```bash
+cd your-repo-name
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project:
+
+```bash
+npm run dev
+```
+
+---
+
+## 🌐 API Used
+
+FakeStore API
+https://fakestoreapi.com/
+
+---
+
+## 📸 Screenshots
+
+<img width="1887" height="924" alt="image" src="https://github.com/user-attachments/assets/eec380d9-3758-4ed6-9798-7b24b3489876" />
+<img width="1899" height="931" alt="image" src="https://github.com/user-attachments/assets/b7a5d020-77f6-4869-969b-db26eaeca128" />
+<img width="1902" height="927" alt="image" src="https://github.com/user-attachments/assets/f8746446-b840-44e0-9471-c0543699cfd9" />
+
+
+---
+
+## 👨‍💻 Developer
+
+Built with ❤️ by Krish Jethva
